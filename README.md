@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, AI and Python
 - 🌱 I’m currently learning about AI and Python
 - 💞️ I’m looking to collaborate on projects that uses Python and AI
-- 📫 How to reach me: send me an e-mail to: thaisatatiana@gmail.com
+- 📫 How to reach me: e-mail to: thaisatatiana@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
