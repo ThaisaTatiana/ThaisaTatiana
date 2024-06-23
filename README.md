@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning about AI and Python
 - 💞️ I’m looking to collaborate on projects that uses Python and AI
 - 📫 How to reach me: e-mail to: thaisatatiana@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 ThaisaTatiana/ThaisaTatiana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
